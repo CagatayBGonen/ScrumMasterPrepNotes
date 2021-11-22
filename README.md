@@ -1,2 +1,2 @@
 # ScrumMasterPrepNotes
-My Scrum Master Certification notes
+My Scrum Master Certification notes.
